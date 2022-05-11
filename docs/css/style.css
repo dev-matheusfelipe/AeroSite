@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;500;600;700;800;900&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+    /* background: #eef6fd; */
+    /* background: rgb(27, 27, 27); */
+}
+
+
+#heart a:hover {
+    background-color: red;
+    background-image: url("../assets/icons/hover/heart.svg"); 
+}
+#frown a:hover {
+
+    background-image: url("../assets/icons/hover/frown.svg");
+}
+#repeat a:hover {
+
+    background-image: url("../assets/icons/hover/repeat.svg");
+}
+#star a:hover {
+
+    background-image: url("../assets/icons/hover/star.svg");
+}
+#maximize a:hover {
+
+    background-image: url("../assets/icons/hover/maximize-2.svg");
+}
